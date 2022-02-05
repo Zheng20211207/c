@@ -9,14 +9,14 @@
 //
 //	return 0;
 //}
-
+//
 //1.2
 //int main(void)
 //{
 //	printf("concrete contains gtavel and cement.\n");
 //	return 0;
 //}
-
+//
 //2.1
 //int main(void)
 //{
@@ -27,7 +27,7 @@
 //	printf("我最喜欢数字是%d",  num);
 //	return 0;
 //}
-
+//
 //2.2
 //int main(void)
 //{
@@ -37,7 +37,7 @@
 //	printf("有%d feet ，有%d fathoms", feet, fathoms);//%d代表取值 语句后面直接加声明量就可以，不用&
 //	return 0;
 //}
-
+//
 //2.3
 //void bulter(void);
 //void bulter(void)
@@ -51,7 +51,7 @@
 //	printf("是的我想要茶水\n");
 //	return 0;
 //}
-
+//
 //第二章作业
 //int main(void)
 //{
@@ -69,7 +69,7 @@
 //	days = age * 365;
 //	printf("您的天数是%d\n", days);
 //}
-
+//
 //int jolly(void)
 //{
 //	printf("huang\n");
