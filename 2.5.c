@@ -1,1 +1,1 @@
-const int months = 12;//months不可更改只能为12
+const int months = 12;//months不可更改只能为12。
