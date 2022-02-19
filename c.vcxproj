@@ -147,7 +147,9 @@
     <ClCompile Include="2.4.c" />
     <ClCompile Include="2.5.c" />
     <ClCompile Include="循环计算.c" />
+    <ClCompile Include="整数逆序.c" />
     <ClCompile Include="猜数游戏.c" />
+    <ClCompile Include="算平均数.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

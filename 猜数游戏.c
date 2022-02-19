@@ -19,7 +19,7 @@
 //			printf("你猜的数小了");
 //		}//if     else if循环
 //
-//	} while (a != number);//do while循环
+//	} while (a != number);//do while循环 先执行再判断
 //	printf("你用了%d次就对了\n", count);
 //	return 0;
 //

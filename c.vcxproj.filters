@@ -39,5 +39,11 @@
     <ClCompile Include="猜数游戏.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算平均数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整数逆序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
