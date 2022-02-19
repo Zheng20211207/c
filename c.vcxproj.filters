@@ -33,5 +33,11 @@
     <ClCompile Include="2.17.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="循环计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猜数游戏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

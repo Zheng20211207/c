@@ -146,6 +146,8 @@
     <ClCompile Include="2.3.c" />
     <ClCompile Include="2.4.c" />
     <ClCompile Include="2.5.c" />
+    <ClCompile Include="循环计算.c" />
+    <ClCompile Include="猜数游戏.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
