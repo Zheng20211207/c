@@ -11,7 +11,7 @@
 //			
 //		}
 //	}
-//	if (isprime = 1) {
+//	if (isprime == 1) {
 //		printf("%dÊÇËØÊı", x);
 //	}
 //	else {
