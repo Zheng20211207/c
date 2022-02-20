@@ -1,6 +1,6 @@
-#include<stdio.h>
-#include<string.h>
-#define DENSITY 62.4
+//#include<stdio.h>
+//#include<string.h>
+//#define DENSITY 62.4
 //2.12ื๗าต
 //int main(void)
 //{ int tost = 10;

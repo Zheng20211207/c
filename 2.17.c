@@ -1,4 +1,4 @@
-#include<stdio.h>
+//#include<stdio.h>
 //int main(void)
 //{
 //	printf("%x %X %#x\n", 31,31,31);//lf是16进制数 在十进制中表示31

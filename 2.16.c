@@ -1,4 +1,4 @@
-#include<stdio.h>
+//#include<stdio.h>
 //#define PAGES 9
 //int main(void)
 //{

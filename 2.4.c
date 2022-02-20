@@ -1,5 +1,5 @@
-#include<stdio.h>
-#define PRAISE "you are an extraordinary being"
+//#include<stdio.h>
+//#define PRAISE "you are an extraordinary being"
 //int main()
 //{
 //	char name[40];

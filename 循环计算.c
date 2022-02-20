@@ -1,4 +1,4 @@
-#include<stdio.h>
+//#include<stdio.h>
 //int main()//成功的循环不只有一个
 //{
 //	int x = 0;
