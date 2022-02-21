@@ -140,11 +140,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="2.16.c" />
-    <ClCompile Include="2.17.c" />
-    <ClCompile Include="2.3.c" />
-    <ClCompile Include="2.4.c" />
-    <ClCompile Include="2.5.c" />
     <ClCompile Include="for循环.c" />
     <ClCompile Include="多项求和.c" />
     <ClCompile Include="循环控制.c" />
