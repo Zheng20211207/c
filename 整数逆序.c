@@ -11,6 +11,8 @@
 //		printf("x=%d digit=%d ret=%d\n", x, digit, ret);
 //		x /= 10;//取十位数
 //	}
-//	printf("%d", ret);
+//	
+//	printf("%d ",  ret);
+//	
 //	return 0;
 //}

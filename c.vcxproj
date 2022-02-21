@@ -147,8 +147,10 @@
     <ClCompile Include="2.4.c" />
     <ClCompile Include="2.5.c" />
     <ClCompile Include="for循环.c" />
+    <ClCompile Include="多项求和.c" />
     <ClCompile Include="循环控制.c" />
     <ClCompile Include="循环计算.c" />
+    <ClCompile Include="整数分解.c" />
     <ClCompile Include="整数逆序.c" />
     <ClCompile Include="猜数游戏.c" />
     <ClCompile Include="算平均数.c" />

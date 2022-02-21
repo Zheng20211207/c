@@ -51,5 +51,11 @@
     <ClCompile Include="循环控制.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="多项求和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整数分解.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
