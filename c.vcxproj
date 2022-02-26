@@ -146,6 +146,7 @@
     <ClCompile Include="循环计算.c" />
     <ClCompile Include="整数分解.c" />
     <ClCompile Include="整数逆序.c" />
+    <ClCompile Include="最大公约数.c" />
     <ClCompile Include="猜数游戏.c" />
     <ClCompile Include="算平均数.c" />
   </ItemGroup>

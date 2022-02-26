@@ -39,5 +39,8 @@
     <ClCompile Include="整数分解.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最大公约数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
