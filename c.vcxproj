@@ -149,6 +149,7 @@
     <ClCompile Include="最大公约数.c" />
     <ClCompile Include="猜数游戏.c" />
     <ClCompile Include="算平均数.c" />
+    <ClCompile Include="练习4.0.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
